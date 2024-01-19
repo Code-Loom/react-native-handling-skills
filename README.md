@@ -1,6 +1,7 @@
 # 리액트 네이티브를 다루는 기술
 
 - https://www.yes24.com/Product/Goods/104643906
+- https://github.com/velopert/dealing-with-react-native/tree/main
 
 ## 참여 인원
 - 김윤(@bbaldae01)
